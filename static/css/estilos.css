@@ -4,8 +4,8 @@
     --card-bg: #ffffff;
     --text-dark: #2c3e50;
     --text-muted: #7f8c8d;
-    --color-ejercicio1: #1e3a8a; 
-    --color-ejercicio2: #f97316; 
+    --color-ejercicio1: #a11ca6; 
+    --color-ejercicio2: #8bc34a; 
     --color-button: #0ea5e9;   
     --color-button-hover: #0284c7;
     --border-radius: 12px;      
@@ -44,12 +44,8 @@ body {
     transform: translateY(-5px);
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.15);
 }
-.btn-purple { 
-    background: linear-gradient(135deg, var(--color-ejercicio1), #3b82f6); 
-}
-.btn-green { 
-    background: linear-gradient(135deg, var(--color-ejercicio2), #facc15); 
-}
+.btn-purple { background-color: #a11ca6; }
+.btn-green { background-color: #8bc34a; }
 
 
 .form-card {
